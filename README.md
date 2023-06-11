@@ -15,4 +15,4 @@ It can also be observed that food is a common theme within the top 5 categories 
 Moreover, it was observed that the maximum amount of content was posted in the months of August and May. 
 
 Recommended the next steps to Social Buzz:
-From the above steps, we can recommend to Social Buzz that we take the above analysis into large scale production by focussing on scaling the platform mainly in the months of August and May . It is also recommended that the platform be scaled by focussing mostly on posts based on factual,outdoors and food especially healthy foo based content. 
+From the above steps, we can recommend to Social Buzz that we take the above analysis into large scale production by focussing on scaling the platform mainly in the months of August and May . It is also recommended that the platform be scaled by focussing mostly on posts based on factual,outdoors and food especially healthy food based content. 
